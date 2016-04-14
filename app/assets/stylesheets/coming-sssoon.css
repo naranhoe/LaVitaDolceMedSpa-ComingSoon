@@ -654,7 +654,7 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
 
 
 .main{
-    background-position: center center;
+    background-position: right;
     background-size: cover;
     height: auto;
     left: 0;
